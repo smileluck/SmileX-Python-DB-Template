@@ -1,5 +1,4 @@
-# SmileX Python DB Template 
-
+# SmileX Python DB Template
 
 SmileX Python 数据库模板项目，一个基于 SQLAlchemy 2.0 和 Alembic 构建的现代化异步数据库管理解决方案。本项目可作为 Python 项目的数据库基础设施模板，支持快速集成 PostgreSQL 和 MySQL 数据库。
 
@@ -554,6 +553,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-#   S m i l e X - P y t h o n - D B - T e m p l a t e 
- 
- 
